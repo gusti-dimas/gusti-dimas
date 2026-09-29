@@ -9,7 +9,7 @@ I am a Full Stack Web Developer based in Balikpapan, Indonesia, with a Bachelor'
 - **Tools & DevOps:** Git, Docker, Bun, Cloudflare, Vercel
 
 ### 🚀 Featured Projects
-- **[AI Chatbot Web App](#)**: A full-stack AI chatbot built with Next.js, Express.js, and MongoDB.
+- **[AI Chatbot Web App](#)**: A full-stack AI chatbot built with Next.js, Express.js, and MongoDB. [Repository](https://github.com/gusti-dimas/takoni)
 - **[PDPI Event Check-in System](#)**: An offline-first registration system with auto-sync to PostgreSQL, built with TypeScript, Vite, and Hono.
 
 ### 📫 Let's Connect
