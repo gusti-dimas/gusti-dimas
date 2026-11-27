@@ -23,5 +23,5 @@ I'm particularly interested in building reliable applications, exploring softwar
 
 ### 📫 Let's Connect
 
-- 📧 Email: dimas_gusti@icloud.com
+- 📧 Email: gusti_dimas@icloud.com
 - 💼 LinkedIn: [linkedin.com/in/gusti-dimas](https://linkedin.com/in/gusti-dimas)
